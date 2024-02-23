@@ -16,6 +16,7 @@ Open the camera application on your mobile device.
 Point the camera at the QR code displayed in the terminal.
 Once the QR code is scanned, the Expo Go application will open automatically.
 You will see our QR and Barcode Scanner application loaded in Expo Go.
+
 Features
 Scan QR Codes: Easily scan QR codes using your device's camera.
 Scan UPC Barcodes: Scan Universal Product Codes (UPC) barcodes effortlessly.
